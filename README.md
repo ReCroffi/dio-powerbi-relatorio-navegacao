@@ -49,6 +49,7 @@ Segundo desafio de projeto do bootcamp de Power BI da DIO. O relatório usa a ba
 
 ```
 dataset/     base Financial Sample (.xlsx)
+relatorio/   arquivo .pbix do relatório
 imagens/     prints das páginas
 ```
 
@@ -59,6 +60,7 @@ imagens/     prints das páginas
 - [x] Segunda página criada
 - [x] Botões de navegação entre as páginas
 - [x] Relatório publicado no Power BI Service
+- [x] Arquivo .pbix salvo em `relatorio/`
 - [x] Prints das páginas adicionados
 
 ## Ferramentas
